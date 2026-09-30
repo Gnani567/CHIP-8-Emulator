@@ -1,0 +1,5 @@
+.vscode/
+*.o
+chip8
+*.sav
+tests/test_opcodes
