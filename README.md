@@ -2,9 +2,6 @@
 
 A Chip-8 emulator built in C++ with SDL2 graphics and audio support.
 
-> **Note to Participants (original):** 
-> This codebase is intentionally incomplete and contains implementation defects across opcode handling, memory management, timing control, and rendering pipeline. Please consult the **Problem Statement** document for your exact submission guidelines and evaluation criteria.
-
 ## Features
 
 - All 35 Chip-8 opcodes implemented
